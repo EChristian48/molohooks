@@ -1,0 +1,24 @@
+{
+  "name": "molohooks",
+  "version": "0.0.0",
+  "description": "React hooks for common use cases",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EChristian48/molohooks.git"
+  },
+  "author": "Erick Christian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EChristian48/molohooks/issues"
+  },
+  "homepage": "https://github.com/EChristian48/molohooks#readme",
+  "devDependencies": {
+    "@types/react": "^16.9.56",
+    "react": "^17.0.1",
+    "typescript": "^4.0.5"
+  }
+}
