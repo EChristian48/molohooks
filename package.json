@@ -1,6 +1,6 @@
 {
   "name": "molohooks",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "React hooks for common use cases",
   "main": "dist/index.js",
   "scripts": {
